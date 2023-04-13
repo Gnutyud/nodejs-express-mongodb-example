@@ -9,8 +9,6 @@ This is an example Node.js project that uses the Express framework and MongoDB. 
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
 - [File Upload](#file-upload)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
