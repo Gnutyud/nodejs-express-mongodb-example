@@ -1,6 +1,6 @@
 {
   "name": "nodejs-express-mongdb-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs init project structure example",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "express-rate-limit": "^6.7.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.1",
+    "mongoose-unique-validator": "^4.0.0",
     "multer": "^1.4.5-lts.1"
   },
   "devDependencies": {
